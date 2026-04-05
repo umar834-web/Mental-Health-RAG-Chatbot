@@ -102,7 +102,7 @@ Please consult a licensed professional for serious mental health concerns.
 
 ## 👨‍💻 Author
 
-Your Name
+Umar
 
 ---
 
