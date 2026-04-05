@@ -106,7 +106,26 @@ Umar
 
 ---
 
-## ⭐ Project Status
+🔧 Fine-Tuning (Assignment-2)
 
-✅ Assignment-1 (RAG System) Completed  
-🔄 Assignment-2 (Fine-tuning) Pending
+This project includes fine-tuning of an LLM using QLoRA (PEFT).
+
+🧠 Key Features:
+Instruction-based dataset
+LoRA adapters
+8-bit quantization
+Efficient training on Colab
+
+📊 Results
+
+| Model            | Performance       |
+| ---------------- | ----------------- |
+| Base Model       | Generic responses |
+| Fine-Tuned Model | Empathetic + safe |
+
+
+🚀 How to Run Fine-Tuning
+
+pip install transformers datasets peft bitsandbytes accelerate
+
+python finetuning.py
