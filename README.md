@@ -110,6 +110,7 @@ Umar
 
 This project includes fine-tuning of an LLM using QLoRA (PEFT).
 
+
 🧠 Key Features:
 
 Instruction-based dataset
@@ -119,6 +120,7 @@ LoRA adapters
 8-bit quantization
 
 Efficient training on Colab
+
 
 📊 Results
 
